@@ -1,0 +1,34 @@
+# LoadRunner results and replay output
+result*/
+Results/
+*.lrr
+*.lra
+
+# Replay logs
+output.txt
+mdrv*.log
+logfile.log
+
+# Runtime data files
+ThumbnailsCache.tmp
+*.bak
+*.tmp
+*.lck
+*.ci
+*.idx
+
+# Compiled files
+pre_cci.c
+combined_*.c
+
+# Analysis session files
+*.lrs
+AnalysisSession/
+
+# Snapshot files
+data/
+
+# System files
+Thumbs.db
+desktop.ini
+.DS_Store

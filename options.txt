@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\psthe\OneDrive\Desktop\Thevasharma\LoadRunner working files\JpetStore_PurchasePetAnimal
+-IC:\Program Files (x86)\Canon\Easy-WebPrint EX\include
+-ec:\users\psthe\onedrive\desktop\thevasharma\loadrunner working files\jpetstore_purchasepetanimal\\logfile.log
+c:\users\psthe\onedrive\desktop\thevasharma\loadrunner working files\jpetstore_purchasepetanimal\\combined_JpetStore_PurchasePetAnimal.c
+c:\users\psthe\onedrive\desktop\thevasharma\loadrunner working files\jpetstore_purchasepetanimal\\pre_cci.c
