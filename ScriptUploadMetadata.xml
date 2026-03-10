@@ -19,6 +19,7 @@
     <FileEntry Name="p_username.dat" Filter="2" />
     <FileEntry Name="combined_JpetStore_PurchasePetAnimal.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="101629033440.idx" Filter="1" />
     <FileEntry Name="234738100440.idx" Filter="1" />
     <FileEntry Name="23473810044_0E5.121.idx" Filter="1" />
@@ -98,11 +99,13 @@
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
     <FileEntry Name="p_cardNumber.dat" Filter="1" />
     <FileEntry Name="p_pwd.dat" Filter="1" />
+    <FileEntry Name="README.md" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
